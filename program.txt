@@ -1,0 +1,8 @@
+Main()
+{
+print "hello world"
+}
+mentho()
+{
+print "my name is wzy"
+}
