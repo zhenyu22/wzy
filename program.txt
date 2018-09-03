@@ -7,5 +7,5 @@ mentho()
 print "my name is wzy"
 
 
-aaaa
+console.log('it work')
 }
